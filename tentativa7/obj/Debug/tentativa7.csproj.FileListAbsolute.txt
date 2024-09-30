@@ -1,0 +1,7 @@
+C:\Users\natha\source\repos\tentativa7\tentativa7\bin\Debug\tentativa7.exe.config
+C:\Users\natha\source\repos\tentativa7\tentativa7\bin\Debug\tentativa7.exe
+C:\Users\natha\source\repos\tentativa7\tentativa7\bin\Debug\tentativa7.pdb
+C:\Users\natha\source\repos\tentativa7\tentativa7\obj\Debug\tentativa7.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\tentativa7\tentativa7\obj\Debug\tentativa7.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\tentativa7\tentativa7\obj\Debug\tentativa7.exe
+C:\Users\natha\source\repos\tentativa7\tentativa7\obj\Debug\tentativa7.pdb
